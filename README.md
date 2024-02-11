@@ -4,7 +4,7 @@
 This project focuses on analyzing the user engagement of an online learning platform following the introduction of new features, including courses, exams, and career tracks. The analysis includes approximately 200k students and aims to evaluate the impact of these enhancements on the platform's effectiveness and profitability.
 
 <p align="center">
-  <img src="https://images.pexels.com/photos/4144294/pexels-photo-4144294.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Image Description" width="800"/>
+  <img src="img/landscape.jpg" alt="Image Description" width="800"/>
 </p>
 
 ## Project Components
@@ -17,6 +17,9 @@ This project focuses on analyzing the user engagement of an online learning plat
 
 ### Visualization 📊
 - Leveraged Tableau to create insightful visualizations, providing stakeholders with a clear and intuitive understanding of the analysis results.
+
+- <a href="https://public.tableau.com/app/profile/aditya.a1286/viz/UserOnboarding/Dashboard1?publish=yes">Check Dashboard</a>
+
 
 ### Course Library Expansion 📖
 - Expanded the course library to enhance platform engagement, attracting a wider audience and providing a diverse range of educational content.
