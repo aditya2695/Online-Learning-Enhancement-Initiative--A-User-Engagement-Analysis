@@ -8,7 +8,7 @@ This project focuses on analyzing the user engagement of an online learning plat
 </p>
 
 ## Project Components
-
+  
 ### Data Extraction and Management 🛠️
 - Utilized MySQL database for efficient data extraction and management to ensure a comprehensive dataset for analysis.
 
