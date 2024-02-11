@@ -21,15 +21,6 @@ This project focuses on analyzing the user engagement of an online learning plat
 - <a href="https://public.tableau.com/app/profile/aditya.a1286/viz/UserOnboarding/Dashboard1?publish=yes">Check Dashboard</a>
 
 
-### Course Library Expansion 📖
-- Expanded the course library to enhance platform engagement, attracting a wider audience and providing a diverse range of educational content.
-
-### Statistical Testing 🧪
-- Utilized statistical testing techniques to rigorously evaluate the effectiveness of new features, ensuring robust conclusions from the analysis.
-
-### Profitability Analysis 💸
-- Played a key role in conducting the company's projected profitability analysis for the first half of 2022, leveraging insights derived from both statistical testing and user engagement analysis.
-
 ## Instructions for Replication 🔄
 1. **Data Setup**: Ensure the MySQL database is set up and configured properly. Import the necessary data for analysis.
 2. **Code Execution**: Execute the Python script for data analysis, making use of the Pandas library.
