@@ -18,6 +18,9 @@ This project focuses on analyzing the user engagement of an online learning plat
 ### Visualization 📊
 - Leveraged Tableau to create insightful visualizations, providing stakeholders with a clear and intuitive understanding of the analysis results.
 
+- <a href="https://public.tableau.com/app/profile/aditya.a1286/viz/UserOnboarding/Dashboard1?publish=yes">Check Dashboard</a>
+
+
 ### Course Library Expansion 📖
 - Expanded the course library to enhance platform engagement, attracting a wider audience and providing a diverse range of educational content.
 
